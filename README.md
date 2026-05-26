@@ -17,7 +17,7 @@ Using a transactional dataset of **1M+ rows**, the probabilistic models successf
 * **Executive BI Dashboard:** Tableau Public - Built a high-end minimalist interface utilizing data-driven 75th percentile thresholds for sharp user segmentation.
 
 ## 🖥️ Live Dashboard
-👉 **[Link to my Interactive Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+<img width="1645" height="851" alt="Screenshot_20260525_201112" src="https://github.com/user-attachments/assets/fe80b8a6-1614-4c71-86c3-73480130af65" />
 
 ## 📁 Repository Structure
 * `Online_Retail_CLV.ipynb`: End-to-end Python script containing data pipeline, model training, and probability matrices.
